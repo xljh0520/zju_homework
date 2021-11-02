@@ -1,0 +1,9 @@
+lr: 0.001
+max_epoch: 50
+weight_decay: 0.01
+optimizer: SGD
+momentum: 0.9
+betas1: 0.9
+betas2: 0.99
+net: resnet18
+batch_size: 32
